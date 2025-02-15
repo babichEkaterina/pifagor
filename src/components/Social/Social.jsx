@@ -4,8 +4,8 @@ export const Social = () => {
       <a href="https://www.instagram.com/psychomatrix.katerina/?utm_source=ig_web_button_share_sheet">
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="100"
-          height="100"
+          width="50"
+          height="50"
           viewBox="0 0 2499.899999999999 2500"
         >
           <defs>
