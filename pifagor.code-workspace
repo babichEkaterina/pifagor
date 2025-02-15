@@ -1,29 +1,29 @@
 {
   "folders": [
-	{
-		"name": "pifagor",
-		"path": "."
-	},
-	{
-		"name": ".github",
-		"path": "../../Yana Korchmenuk/Pifagor/.github"
-	},
-	{
-		"name": "assets",
-		"path": "../../Yana Korchmenuk/Pifagor/assets"
-	},
-	{
-		"name": "node_modules",
-		"path": "../../Yana Korchmenuk/Pifagor/node_modules"
-	},
-	{
-		"name": "public",
-		"path": "../../Yana Korchmenuk/Pifagor/public"
-	},
-	{
-		"name": "src",
-		"path": "../../Yana Korchmenuk/Pifagor/src"
-	}
-],
+    {
+      "name": "pifagor",
+      "path": "."
+    },
+    {
+      "name": ".github",
+      "path": "../../babichEkaterina/Pifagor/.github"
+    },
+    {
+      "name": "assets",
+      "path": "../../babichEkaterina/Pifagor/assets"
+    },
+    {
+      "name": "node_modules",
+      "path": "../../babichEkaterina/Pifagor/node_modules"
+    },
+    {
+      "name": "public",
+      "path": "../../babichEkaterina/Pifagor/public"
+    },
+    {
+      "name": "src",
+      "path": "../../babichEkaterina/Pifagor/src"
+    }
+  ],
   "settings": {}
 }
