@@ -3,7 +3,7 @@ export const Input = ({ onChange, value }) => {
     <form className="flex max-w-sm" onChange={onChange}>
       <input
         type="text"
-        placeholder="ДД.MM.РРРР"
+        placeholder="ДД.MM.ГГГГ"
         id="date"
         value={value}
         style={{ width: 110 }}
