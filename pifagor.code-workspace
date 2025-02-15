@@ -1,0 +1,29 @@
+{
+  "folders": [
+	{
+		"name": "pifagor",
+		"path": "."
+	},
+	{
+		"name": ".github",
+		"path": "../../Yana Korchmenuk/Pifagor/.github"
+	},
+	{
+		"name": "assets",
+		"path": "../../Yana Korchmenuk/Pifagor/assets"
+	},
+	{
+		"name": "node_modules",
+		"path": "../../Yana Korchmenuk/Pifagor/node_modules"
+	},
+	{
+		"name": "public",
+		"path": "../../Yana Korchmenuk/Pifagor/public"
+	},
+	{
+		"name": "src",
+		"path": "../../Yana Korchmenuk/Pifagor/src"
+	}
+],
+  "settings": {}
+}

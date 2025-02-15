@@ -1,1 +1,1 @@
-# pifagor
+# Pifagor
