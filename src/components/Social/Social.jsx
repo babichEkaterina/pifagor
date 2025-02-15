@@ -16,8 +16,8 @@ export const Social = () => {
               r="3263.54"
               gradientUnits="userSpaceOnUse"
             >
-              <stop offset=".09" stop-color="#fa8f21" />
-              <stop offset=".78" stop-color="#d82d7e" />
+              <stop offset=".09" stop-color="#0a0a0a" />
+              <stop offset=".78" stop-color="#0a0a0a" />
             </radialGradient>
             <radialGradient
               id="b"
