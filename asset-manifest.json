@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pifagor/static/css/main.0928644b.css",
-    "main.js": "/pifagor/static/js/main.6ee090b3.js",
+    "main.js": "/pifagor/static/js/main.d9781734.js",
     "static/media/babich.png": "/pifagor/static/media/babich.ea20fbcf6b879169930e.png",
     "index.html": "/pifagor/index.html",
     "main.0928644b.css.map": "/pifagor/static/css/main.0928644b.css.map",
-    "main.6ee090b3.js.map": "/pifagor/static/js/main.6ee090b3.js.map"
+    "main.d9781734.js.map": "/pifagor/static/js/main.d9781734.js.map"
   },
   "entrypoints": [
     "static/css/main.0928644b.css",
-    "static/js/main.6ee090b3.js"
+    "static/js/main.d9781734.js"
   ]
 }
