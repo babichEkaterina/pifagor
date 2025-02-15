@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pifagor/static/css/main.cb961f0e.css",
+    "main.js": "/Pifagor/static/js/main.2d974342.js",
+    "static/media/babich.png": "/Pifagor/static/media/babich.ea20fbcf6b879169930e.png",
+    "index.html": "/Pifagor/index.html",
+    "main.cb961f0e.css.map": "/Pifagor/static/css/main.cb961f0e.css.map",
+    "main.2d974342.js.map": "/Pifagor/static/js/main.2d974342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb961f0e.css",
+    "static/js/main.2d974342.js"
+  ]
+}
