@@ -94,20 +94,20 @@ class Model {
   showMatrix(matrix, destiny) {
     this.value = {
       aimNumber: matrix[12],
-      characterNumber: matrix[0] || '',
-      curiosityNumber: matrix[2] || '',
-      dutyNumber: matrix[7] || '',
+      characterNumber: matrix[0] || '-',
+      curiosityNumber: matrix[2] || '-',
+      dutyNumber: matrix[7] || '-',
       energyNumber: matrix[1] || 0,
-      everyDayLifeNumber: matrix[10] || '',
+      everyDayLifeNumber: matrix[10] || '-',
       familyNumber: matrix[11],
-      fateNumber: destiny || '',
+      fateNumber: destiny || '-',
       habitsNumber: matrix[13],
-      healthNumber: matrix[3] || '',
-      logicNumber: matrix[4] || '',
-      luckNumber: matrix[6] || '',
-      memoryNumber: matrix[8] || '',
+      healthNumber: matrix[3] || '-',
+      logicNumber: matrix[4] || '-',
+      luckNumber: matrix[6] || '-',
+      memoryNumber: matrix[8] || '-',
       passionNumber: matrix[9],
-      workNumber: matrix[5] || '',
+      workNumber: matrix[5] || '-',
     };
   }
 }

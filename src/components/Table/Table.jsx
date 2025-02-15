@@ -28,7 +28,8 @@ export const Tabel = () => {
           <tr className="border-b border-blue-400">
             <td className="px-4 py-4 sm:px-2 md:px-2 min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl  font-bold  text-white border bg-neutral-500">
               <div className="flex flex-col items-center text-center">
-                <span>Проф. вектор</span>
+                <span>Проф.</span>
+                <span>вектор</span>
                 <span id="destinyNumber">{fateNumber}</span>
               </div>
             </td>
@@ -52,19 +53,19 @@ export const Tabel = () => {
             </td>
           </tr>
           <tr className="border-b border-gray-200 dark:border-gray-700">
-            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5 sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
+            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-4 sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
               <div className="flex flex-col items-center">
                 <span>Характер</span>
                 <span id="block1">{characterNumber}</span>
               </div>
             </td>
-            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl font-bold text-black bg-neutral-50 border">
+            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-3 sm:text-lg md:text-2xl font-bold text-black bg-neutral-50 border">
               <div className="flex flex-col items-center">
                 <span>Здоровье</span>
                 <span id="block4">{healthNumber}</span>
               </div>
             </td>
-            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
+            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-4 sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
               <div className="flex flex-col items-center">
                 <span>Удача</span>
                 <span id="block7">{luckNumber}</span>
@@ -78,19 +79,19 @@ export const Tabel = () => {
             </td>
           </tr>
           <tr className="border-b border-gray-200 dark:border-gray-700">
-            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl  font-bold  text-black border bg-neutral-50">
+            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-4 sm:text-lg md:text-2xl  font-bold  text-black border bg-neutral-50">
               <div className="flex flex-col items-center">
                 <span>Энергия</span>
                 <span id="block2">{energyNumber}</span>
               </div>
             </td>
-            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl  font-bold text-black  border bg-neutral-50">
+            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-3 sm:text-lg md:text-2xl  font-bold text-black  border bg-neutral-50">
               <div className="flex flex-col items-center">
                 <span>Логика</span>
                 <span id="block5">{logicNumber}</span>
               </div>
             </td>
-            <td className="px-4 py-4 sm:px-2 md:px-2  whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
+            <td className="px-4 py-4 sm:px-2 md:px-2  whitespace-nowrap min-[320px]:px-4 sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
               <div className="flex flex-col items-center">
                 <span>Долг</span>
                 <span id="block8">{dutyNumber}</span>
@@ -104,19 +105,19 @@ export const Tabel = () => {
             </td>
           </tr>
           <tr className="border-b border-gray-200 dark:border-gray-700">
-            <td className="px-4 py-4 sm:px-2 md:px-2  whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
+            <td className="px-4 py-4 sm:px-2 md:px-2  whitespace-nowrap min-[320px]:px-4 sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
               <div className="flex flex-col items-center">
                 <span>Интерес</span>
                 <span id="block3">{curiosityNumber}</span>
               </div>
             </td>
-            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl font-bold text-black  border bg-neutral-50">
+            <td className="px-4 py-4 sm:px-2 md:px-2 whitespace-nowrap min-[320px]:px-3 sm:text-lg md:text-2xl font-bold text-black  border bg-neutral-50">
               <div className="flex flex-col items-center">
                 <span>Труд</span>
                 <span id="block6">{workNumber}</span>
               </div>
             </td>
-            <td className="px-4 py-4 sm:px-2 md:px-2  whitespace-nowrap min-[320px]:px-2 min-[320px]:pl-1.5  sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
+            <td className="px-4 py-4 sm:px-2 md:px-2  whitespace-nowrap min-[320px]:px-4 sm:text-lg md:text-2xl font-bold text-black border bg-neutral-50">
               <div className="flex flex-col items-center">
                 <span>Память</span>
                 <span id="block9">{memoryNumber}</span>
