@@ -2,7 +2,7 @@
   "name": "Pifagor",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://babichEkaterina.github.io/Pifagor/",
+  "homepage": "https://babichekaterina.github.io/pifagor/",
   "dependencies": {
     "@mui/base": "^5.0.0-beta.40",
     "@testing-library/jest-dom": "^5.16.3",
